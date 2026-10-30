@@ -1,0 +1,22 @@
+{
+  "name": "restory-repair-workspace",
+  "displayName": "ReStory Repair Workspace",
+  "programType": "repair-workspace",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Project records",
+    "Reference groups",
+    "Workspace notes"
+  ],
+  "topics": [
+    "restory-repair-workspace",
+    "restory-tools",
+    "restory-menu",
+    "restory-settings",
+    "restory-configs",
+    "restory-project-records",
+    "restory-reference-groups"
+  ]
+}
